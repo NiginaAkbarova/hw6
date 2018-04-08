@@ -8,3 +8,5 @@ https://github.com/NiginaAkbarova/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE
 
 https://github.com/NiginaAkbarova/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG?raw=true
 
+https://github.com/NiginaAkbarova/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG?raw=true
+Отмеченные слова зеленым цветом могут дополнять данный глагол to kill (первая 1-я lemma) например: To kill an animal. Аналогично, слова отмеченные красным цветом могут дополнять второй глагол To murder, т.е, yfghbvth, to murder prostitude 
